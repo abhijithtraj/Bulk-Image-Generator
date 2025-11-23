@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Image Generator",
+  "description": "A powerful image manipulation suite powered by Gemini 2.5 Flash Image. Features include natural language image editing and bulk product image generation from Excel data.",
+  "requestFramePermissions": []
+}
